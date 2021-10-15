@@ -1,0 +1,30 @@
+.header {
+  background-color: #1e1e2e;
+}
+
+.modal-header {
+  background-color: #1e1e2e;
+  color: white;
+}
+
+body {
+  background-image: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.user-img {
+  margin-top: -75px;
+}
+
+.user-img img {
+  width: 55%;
+  height: 55%;
+}
+
+.modal-main {
+  margin-top: 6%;
+  width: 45%;
+  height: 45%;
+  border-radius: 20%;
+}
